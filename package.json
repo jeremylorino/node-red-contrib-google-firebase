@@ -43,6 +43,6 @@
   },
   "homepage": "https://github.com/shaggyshelar/node-red-contrib-google-firebase#readme",
   "dependencies": {
-    "firebase": "4.6.2"
+    "firebase": "8.0.1"
   }
 }
