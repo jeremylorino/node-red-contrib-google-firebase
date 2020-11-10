@@ -12,7 +12,7 @@
   },
   "description": "node-google-firebase",
   "dependencies": {
-    "firebase": "4.6.2"
+    "firebase": "8.0.1"
   },
   "devDependencies": {},
   "scripts": {
